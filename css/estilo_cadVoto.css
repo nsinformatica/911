@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.topo {
+    background-image: url("../imagens/bgCadVoto.png");
+    min-height: 300px;
+    border-bottom: 2px solid #445144;
+}
+.topo p {
+    font-size: 40px;
+    margin: 5px 0px;
+    font-family: 'Patua One', cursive;
+}
